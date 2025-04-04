@@ -53,7 +53,7 @@ p{
   #title{
     color: #ffffff ;
     background-color: #ff4c68;
-    padding-bottom: 890px;
+    padding-bottom: 1070px;
     text-align: center;
     
 }
@@ -73,7 +73,7 @@ p{
   font-size: 3.5rem !important;
 }
 .dog{
-  height: 200%;
+  height: 150%;
   rotate:  0deg;
   padding-top: 50px;
   position: static;
