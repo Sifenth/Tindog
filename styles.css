@@ -1,0 +1,178 @@
+
+.container-fluid{
+    padding: 3% 15% !important;
+    /* overflow: hidden; */
+    height: 950px;
+}
+.h1{
+  
+  font-family: "Montserrat Black";
+  font-size: 4rem !important;
+  line-height: 1.5 !important;
+  padding-top: 100px;
+ 
+}
+
+.features-describtion{
+  font-family: "Montserrat ExtraBold";
+  font-size: 1.5rem;
+
+}
+h2, h3{
+  font-family: "Montserrat ExtraBold";
+  font-size: 40px !important;
+
+}
+p{
+  color: #8f8f8f;
+  
+  
+  
+}
+.brand-font{
+  font-family: "Ubuntu" !important;
+  font-size: 2.7rem !important;
+  font-weight: 500;
+  font-style: normal;
+}
+#title{
+    color: #ffffff ;
+    background-color: #ff4c68;
+    
+    
+}
+.dog{
+  height: 100%;
+  rotate:  20deg;
+  position: relative;
+  left: 99px;
+  top: 200px;
+ 
+}
+@media (max-width : 1256px)  {
+  #title{
+    color: #ffffff ;
+    background-color: #ff4c68;
+    padding-bottom: 490px;
+    text-align: center;
+    
+}
+.h1{
+  
+  font-family: "Montserrat Black";
+  font-size: 3.5rem !important;
+  line-height: 1.5 !important;
+  padding-top: 100px;
+  
+ 
+}
+.dog{
+  height: 80%;
+  rotate:  0deg;
+  
+  position: static;
+  
+ 
+ 
+ 
+}
+
+
+
+
+}
+.bttn{
+  margin: 4% 4% 5% 0%;
+}
+
+.in-font{
+    font-size: 22px !important;
+    margin: 18px;
+    font-family: "Montserrat thin";
+}
+
+
+#features{
+  padding: 7% 15% ;
+  background-color: #ffffff;
+  position: relative;
+  
+}
+.features-icons{
+ color: #ef8172 ;
+ font-size: 3.5rem;
+ padding: 5%;
+}
+.features-icons:hover{
+  color: #ff4c68 ;
+}
+.feature-box{
+  text-align: center;
+  
+  
+}
+
+
+
+
+#testimonials{
+  background-color :#ef8172;
+  text-align: center;
+  font-family: "Montserrat ExtraBold";
+  color: #ffffff;
+  
+  
+
+}
+.testimonials-images{
+ border-radius: 100%;
+ width: 100px;
+ padding: 10px 10px 0 0;
+ margin: 10px 10px 0 0;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+}
+
+.sponsor{
+  padding: 4% 2%;
+  width: 15%;
+}
+
+.testimonials-carou{
+  padding: 10% 15%;
+  
+}
+
+.btn-price{
+  margin-top: 40px ;
+}
+#pricing{
+  padding: 90px ;
+}
+.price-card{
+  padding: 30px 20px;
+  text-align: center;
+}
+
+
+
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  font-family: "Montserrat ExtraBold";
+  color: #ffffff;
+  margin-top: 7%;
+  padding-top: 7%;
+}
+.social-icons{
+  font-size: 2rem;
+  color: #212529;
+  padding: 20px;
+  text-align: center;
+}
+.social-icons:hover{
+  color: #ffffff;
+}
