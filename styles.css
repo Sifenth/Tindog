@@ -84,7 +84,7 @@ p{
 }
 .btn-group-lg>.btn, .btn-lg {
   
-  --bs-btn-font-size: 3rem !important;
+  --bs-btn-font-size: 2.25rem !important;
   
 }
 
@@ -178,7 +178,7 @@ p{
   padding-top: 7%;
 }
 .social-icons{
-  font-size: 2rem;
+  font-size: 4rem;
   color: #212529;
   padding: 20px;
   text-align: center;
