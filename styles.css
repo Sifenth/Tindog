@@ -73,7 +73,7 @@ p{
   font-size: 3.5rem !important;
 }
 .dog{
-  height: 100%;
+  height: 200%;
   rotate:  0deg;
   padding-top: 50px;
   position: static;
@@ -84,7 +84,7 @@ p{
 }
 .btn-group-lg>.btn, .btn-lg {
   
-  --bs-btn-font-size: 2.25rem !important;
+  --bs-btn-font-size: 3rem !important;
   
 }
 
